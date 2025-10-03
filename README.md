@@ -1,5 +1,5 @@
 # Akanksha
-# Aspiring Data Analyst | SQL, Python, Excel, PowerBI | Eagerto Solve Business Problems with Data-Driven Insights. Open for New Opportunities
+##  Aspiring Data Analyst | SQL, Python, Excel, PowerBI | Eagerto Solve Business Problems with Data-Driven Insights. Open for New Opportunities
 
 ## 👩‍💻 About Me
 
